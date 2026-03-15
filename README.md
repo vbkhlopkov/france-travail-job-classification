@@ -1,1 +1,1 @@
-# france-travail-job-classification
+# Classification automatique des offres d'emploi avec CamemBERT
